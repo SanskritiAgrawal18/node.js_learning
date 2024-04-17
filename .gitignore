@@ -2,3 +2,8 @@
 
 node_modules/
 #other entries can be added
+
+#git status
+#git commit -m "message"
+#git add .
+#git add "file.ext"
