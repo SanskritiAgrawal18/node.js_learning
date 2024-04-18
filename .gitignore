@@ -1,9 +1,15 @@
 # this is used to ignore node_modules directory
 
 node_modules/
+.env
 #other entries can be added
 
+#//GIT COMMANDS
 #git status
 #git commit -m "message"
 #git add .
 #git add "file.ext"
+
+#//GITHUB COMMANDS
+#git push
+#git pull
